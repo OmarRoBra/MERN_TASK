@@ -1,7 +1,6 @@
 import React,{useReducer} from 'react';
 import TareaContext from './tareaContext';
 import TareaReducer from './tareaReducer'
-
 import clienteAxios from '../../config/axios'
 
 import {TAREAS_PROYECTO,
